@@ -16,8 +16,8 @@ I chose this quote because I always think about the impact my interactions with 
 
 ## Goals This Quarter
 
--[]  Start all assignments day 1.
--[]  Go to office hours at least once a week
+- []  Start all assignments day 1.
+- []  Go to office hours at least once a week
 
 ## Most Used Line of Code in Bash
 
@@ -35,5 +35,5 @@ I chose this quote because I always think about the impact my interactions with 
    - _God of War_
 
 ## Best place for browser games
-  [Cool Math Games]([https://coolm](https://www.coolmathgames.com/)) has the most entertaining browser games.
+  [Cool Math Games](https://www.coolmathgames.com/) has the most entertaining browser games.
 
