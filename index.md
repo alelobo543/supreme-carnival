@@ -8,6 +8,11 @@ The main reason I wanted to become a programmer is because I love to **[
 
 ![This is an image](https://i.imgur.com/mmMYGKdb.jpg)
 
+## Top 3 lanuages I know
+- C++
+- Java
+- Python
+
 ## Favorite Quote
 Napoleon Hill once said:
 >Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another.
